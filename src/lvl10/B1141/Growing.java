@@ -39,7 +39,7 @@ public class Growing {
         }
     }
 
-    record GrowingStrings(List<String> words, int maxSequenceLength) {
+    public record GrowingStrings(List<String> words, int maxSequenceLength) {
 
         public GrowingStrings(List<String> words) {
             this(words, solve(words));
