@@ -7,3 +7,14 @@ Aquí encontrarás soluciones a diversos ejercicios que involucran manipulación
 - Búsqueda y reemplazo de caracteres o patrones  
 - Uso de expresiones regulares  
 - Conversión de formatos de texto  
+
+## Enunciados de los ejercicios  
+Los enunciados de cada ejercicio se pueden encontrar en la página oficial de Beecrowd en el siguiente enlace:  
+🔗 [Lista de problemas de Strings - Beecrowd](https://judge.beecrowd.com/es/problems/index/3)  
+
+## Organización del repositorio  
+Los ejercicios están organizados en carpetas según su nivel de dificultad. Cada archivo se nombra siguiendo el formato **BNum**, donde:  
+- **B** hace referencia a Beecrowd  
+- **Num** es el número del ejercicio en la página de Beecrowd  
+
+De esta manera, podrás encontrar fácilmente cada solución y su respectivo enunciado en la plataforma.  
