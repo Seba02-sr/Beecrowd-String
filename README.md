@@ -1,6 +1,6 @@
 # Beecrowd-String
 
-Este repositorio fue creado para practicar y demostrar mis habilidades en el manejo de strings en Java, utilizando las clases y métodos incorporados en la biblioteca estándar.  
+Este repositorio fue creado para practicar y demostrar mis habilidades en el manejo de strings en Java, utilizando las clases y métodos incorporados en la biblioteca estándar. Buscando siempre lograr eficiencia y optimización en los resultados, aprovechando al máximo las capacidades de la biblioteca estándar.
 
 Aquí encontrarás soluciones a diversos ejercicios que involucran manipulación de cadenas, como:  
 - Concatenación y división de strings.
