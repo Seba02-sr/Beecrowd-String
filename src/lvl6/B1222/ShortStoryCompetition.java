@@ -31,7 +31,7 @@ public class ShortStoryCompetition {
         while (scanner.hasNextLine()) {
             // Input
             String[] input = scanner.nextLine().split(" ");
-            int wordCount = Integer.parseInt(input[0]);
+            // int wordCount = Integer.parseInt(input[0]);
             int maxLinesPerPage = Integer.parseInt(input[1]);
             int maxCharsPerLine = Integer.parseInt(input[2]);
 

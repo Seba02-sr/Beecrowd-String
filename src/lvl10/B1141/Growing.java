@@ -37,6 +37,7 @@ public class Growing {
 
             System.out.println(growingStrings.maxSequenceLength());
         }
+        scanner.close();
     }
 
     public record GrowingStrings(List<String> words, int maxSequenceLength) {
