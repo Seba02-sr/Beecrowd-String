@@ -32,8 +32,10 @@ public class FitOrDontFitII {
             String secondNum = numbers[1];
 
             int lenF = firstNum.length(), lenS = secondNum.length();
-
-            if (firstNum.equals(secondNum)) {
+            
+            if (lenS > lenF){
+                System.out.println("nao encaixa");
+            }else if (firstNum.equals(secondNum)) {
                 System.out.println("encaixa");
             } else {
                 String subNum = firstNum.substring(lenF - lenS, lenF);
