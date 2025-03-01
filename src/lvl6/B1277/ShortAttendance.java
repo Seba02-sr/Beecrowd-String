@@ -23,7 +23,7 @@ public class ShortAttendance {
      * + M --> Ausente pero justificado.
      * 4- Ausente pero justificado --> No se cuenta como porcentaje de asistencia.
      * 
-     * ---OUTPUT
+     * ---OUTPUT---
      * 1- Por cada caso de prueba, imprimir los nobmres de los estudiantes que no
      * pueden acceder al examen.
      * 
